@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Subtitles are great on movies and shows, even better when hobbiest put them in
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, I'm Crest. I studied chemistry and biology at Oklahoma State University for my bachlor's degree. Attending a land grant institution was useful to be able to work in lab, special thanks to Dr. Jimmie Weaver who let me work in his lab and taught me a lot about Organic Chemisty research. Erik Lantz show me how to learn from my mistakes too. At Stillwater I learned how to set up my own servers and got into self-hosting, Ethan Sholley is a great resource if you like newsletters. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I mainly post because I love that feeling when you have a specific problem and a random blog answers it. 
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
