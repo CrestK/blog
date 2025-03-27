@@ -1,3 +1,12 @@
+---
+layout: post
+title: How to Check NSF Grant Funding on Professors
+subtitle: It's fun to learn about government funding
+tags: [science, nsf]
+comments: false
+author: Crest Koemel
+---
+
 ## How to find NSF Grants for People
 If you are wondering how to check what sort of funding your professor might have from the National Science Foundation. Let's take Dr. Spencer Pitre at Oklahoma State University an R1 Land Grant Institution as an example.
 
