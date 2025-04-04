@@ -29,7 +29,7 @@ Go to [Releases](https://github.com/jellyfin/jellyfin-media-player/releases) , s
 
 You'll come across a pop up like this one and see if its intel on the processor or not.
 
-![](Screenshot%202025-04-04%20at%2012.31.15%20PM.png)
+![](/assets/img/Screenshot%202025-04-04%20at%2012.31.15%20PM.png)
 
 
 After downloading the dmg, double click the download and run the installer.
