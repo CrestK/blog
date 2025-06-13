@@ -19,8 +19,8 @@ Our resources involved in the set up are:
 - Ethernet Networking to Route | for connecting the ip network 
 
 ## Set Up
+![layout](/assets/img/phone-system.png)
 
-![Phone System](Phone%20System.png)
 ## Logging Into the Grandstream
 To edit the Grandstreams config file got to its ip address (I just do a basic ip address scan with angry ip scanner, then set it static in the router)
 
